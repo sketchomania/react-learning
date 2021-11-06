@@ -1,0 +1,25 @@
+form {
+  position: relative;
+  width: 50vw;
+  height: 2.7rem;
+  padding: 2px;
+  margin: 0 auto;
+  background: rgb(218, 218, 218);
+  border-radius: 7px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 7px rgb(128, 128, 128);
+}
+form label {
+  /* align-items: center; */
+  background-color: #fff;
+  justify-content: center;
+}
+form input {
+  background: inherit;
+  /* border: none; */
+  width: 85%;
+  height: 1.5rem;
+  padding: 0;
+  margin: 0 1rem;
+}
