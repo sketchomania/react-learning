@@ -1,7 +1,7 @@
 // import { Switch, Route } from "react-router-dom";
 import { Switch } from "react-router-dom";
 
-import Icon from "./Icon";
+// import Icon from "./Icon";
 import logo from "./logo.svg";
 import menu from "./icons/menu_black_24dp.svg";
 import "./App.css";
@@ -28,7 +28,7 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           {/* <Icon className="icon" name="star" /> */}
-          <Icon className="icon" name="unicorn" />
+          {/* <Icon className="icon" name="unicorn" /> */}
           <img src={menu} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
